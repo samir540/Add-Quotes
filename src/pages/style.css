@@ -1,0 +1,16 @@
+.invalid input{
+    background-color: red;
+    color: green;
+    border:1px solid red;
+
+};
+
+.form input{
+    background-color: greenyellow;
+    color: yellow;
+    border:3px solid green;
+}
+.form button{
+    color:red;
+    border:1px solid red;
+}
